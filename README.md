@@ -1,5 +1,4 @@
 # angular-test-password
-# angular-test-password
 ## The essence of the task:
 Create a field for entering a password, under the field add 3 sections which will show the strength of the password;
 Changes in password strength must take place in real time;
