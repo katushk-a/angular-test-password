@@ -13,4 +13,4 @@ If the password is easy - the first section is red the rest are gray;
 If the password is medium - the first two sections are yellow the last one is gray;
 If the password is strong, all sections are green;
 
-### I tried to make it simple and efficient, without modifying style a lot. Main focus was on implementing the functionality.
+### I tried to make it simple and efficient, without modifying style a lot. Main focus was on implementing the functionality. I copied my entire project to repository, but the functionality is implemented in <i>src</i> folder.
