@@ -1,0 +1,12 @@
+input[type="text"] {
+    border: solid 1px blue;
+    padding: 10px;
+    border-radius: 8px;
+    display: inline-block;
+    width: 30%;
+}
+
+form{
+    text-align: center;
+}
+
